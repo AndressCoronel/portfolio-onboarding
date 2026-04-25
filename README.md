@@ -31,5 +31,19 @@ Below is a screenshot of my workspace showing the active extensions and the term
 
 ![Environment Setup](./img/screenshot.png)
 
+## 🎯 Phase 2: Research Project - LinkedIn Organic Strategy for B2B SaaS
+In this stage, I conducted a deep dive into how top performers build scalable content systems on LinkedIn to drive B2B growth.
+
+### Why this topic?
+LinkedIn is the primary acquisition channel for B2B SaaS. Understanding high-signal content systems is essential for building automated, AI-driven marketing pipelines that convert.
+
+### Technical Implementation & Orchestration
+* **API Integration**: Developed a Python script (`extract_transcripts.py`) using the `youtube-transcript-api` to automate the extraction of strategic insights from video masterclasses.
+* **Data Structure**:
+    * `/research/sources.md`: Annotated list of 10 high-signal experts (e.g., Justin Welsh, Lara Acosta, Matt Barker).
+    * `/research/linkedin-posts/`: Synthesis of top-performing content frameworks and "hooks".
+    * `/research/youtube-transcripts/`: Raw and processed transcripts for deep strategy analysis.
+* **Expert Selection**: Focused on voices that prioritize systems and ROI over vanity metrics.
+
 ---
 *Completed by Andrés Coronel*
